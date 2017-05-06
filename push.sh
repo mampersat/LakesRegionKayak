@@ -1,1 +1,1 @@
-aws s3 cp index.html s3://mampersat.com/lrkayak/index.html
+aws s3 sync . s3://lrkayak.com/
